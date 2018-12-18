@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c646d1d2338b72247b9b1a6e2649483e
+timeCreated: 1544623130
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FuturBlock
+  fontNames:
+  - FuturBlock
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
